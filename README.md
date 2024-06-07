@@ -2,8 +2,8 @@
 
 Willkommen zu meinem **Cookie Spiel**! Dies ist mein erstes SwiftUI-Projekt und bietet eine unterhaltsame Möglichkeit, in die iOS-Entwicklung einzutauchen.
 
-<img src="https://github.com/Marco-Syntax/Cookie-Game/assets/148045668/feee179f-3d00-45a3-a49c-dc05fe02ae09" alt="anmelden" width="200">
-<img src="https://github.com/Marco-Syntax/Cookie-Game/assets/148045668/d7b221f5-7116-4633-a471-a51bb5552b53" alt="anmelden" width="200">
+<img src="https://github.com/Marco-Syntax/Cookie-Game/assets/148045668/49988fa7-6d2e-468c-aaeb-276c485f615e" alt="anmelden" width="200">
+<img src="https://github.com/Marco-Syntax/Cookie-Game/assets/148045668/70e4eaef-352b-4397-91db-34d886c3027e" alt="anmelden" width="200">
 
 ## Spielbeschreibung!
 
