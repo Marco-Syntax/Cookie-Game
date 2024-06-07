@@ -2,7 +2,11 @@
 
 Willkommen zu meinem **Cookie Spiel**! Dies ist mein erstes SwiftUI-Projekt und bietet eine unterhaltsame Möglichkeit, in die iOS-Entwicklung einzutauchen.
 
-## Spielbeschreibung
+<img src="https://github.com/Marco-Syntax/Cookie-Game/assets/148045668/feee179f-3d00-45a3-a49c-dc05fe02ae09" alt="anmelden" width="200">
+<img src="https://github.com/Marco-Syntax/Cookie-Game/assets/148045668/d7b221f5-7116-4633-a471-a51bb5552b53" alt="anmelden" width="200">
+
+## Spielbeschreibung!
+
 
 Das Spiel enthält **fünf Cookies**, die zufällig auf dem Bildschirm erscheinen. Jedes Mal, wenn du auf einen Cookie klickst, erhältst du einen Punkt, und der Cookie ändert seine Position zufällig. Das Ziel ist es, so viele Punkte wie möglich zu sammeln.
 
