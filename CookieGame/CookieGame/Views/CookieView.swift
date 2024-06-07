@@ -10,11 +10,9 @@ import SwiftUI
 
 // Haupt-View für das Cookie-Spiel
 struct CookieView: View {
-    
-    // Erstellen einer Instanz des ViewModels als StateObject
+        // Erstellen einer Instanz des ViewModels als StateObject
     @StateObject private var viewModel = CookieViewModel()
-    
-    var body: some View {
+        var body: some View {
         NavigationStack {
             ZStack {
                 // Hintergrund als Linearer Farbverlauf
