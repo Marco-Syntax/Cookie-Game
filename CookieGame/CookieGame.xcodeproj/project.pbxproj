@@ -16,6 +16,7 @@
 		3C1304E72C139CE300690232 /* CookieView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C1304E62C139CE300690232 /* CookieView.swift */; };
 		3C1304E92C139CED00690232 /* FormView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C1304E82C139CED00690232 /* FormView.swift */; };
 		3C1304EB2C139D2E00690232 /* CookieViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C1304EA2C139D2E00690232 /* CookieViewModel.swift */; };
+		3C1304ED2C139E8900690232 /* PersonSheetContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C1304EC2C139E8900690232 /* PersonSheetContentView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,7 @@
 		3C1304E62C139CE300690232 /* CookieView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CookieView.swift; sourceTree = "<group>"; };
 		3C1304E82C139CED00690232 /* FormView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FormView.swift; sourceTree = "<group>"; };
 		3C1304EA2C139D2E00690232 /* CookieViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CookieViewModel.swift; sourceTree = "<group>"; };
+		3C1304EC2C139E8900690232 /* PersonSheetContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PersonSheetContentView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -93,6 +95,7 @@
 			children = (
 				3C1304E62C139CE300690232 /* CookieView.swift */,
 				3C1304E82C139CED00690232 /* FormView.swift */,
+				3C1304EC2C139E8900690232 /* PersonSheetContentView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -181,6 +184,7 @@
 				3C1304E72C139CE300690232 /* CookieView.swift in Sources */,
 				3C1304EB2C139D2E00690232 /* CookieViewModel.swift in Sources */,
 				3C1304D42C139C8400690232 /* ContentView.swift in Sources */,
+				3C1304ED2C139E8900690232 /* PersonSheetContentView.swift in Sources */,
 				3C1304E32C139CC500690232 /* Cookie.swift in Sources */,
 				3C1304D22C139C8400690232 /* CookieGameApp.swift in Sources */,
 			);
